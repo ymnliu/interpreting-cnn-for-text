@@ -3,7 +3,7 @@
   "train_y_path": "mr_dataset/train.cat",
   "valid_x_path": "mr_dataset/test.txt.tok",
   "valid_y_path": "mr_dataset/test.cat",
-  "cuda": true,
+  "cuda": false,
   "rare_word_threshold": 2,
   "model_path": "out/test",
   "batch_size": 16,
