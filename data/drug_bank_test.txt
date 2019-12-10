@@ -1,0 +1,620 @@
+2	CYP3A4 Inhibitors: drug, an inhibitor of the drug metabolizing enzyme CYP3A4, significantly increased plasma concentrations of drug when coadministered to subjects who were poor metabolizers (see CLINICAL PHARMACOLOGY, Variability in Metabolism and Drug-Drug Interactions). 
+1	For patients receiving drug or other potent CYP3A4 inhibitors such as other drug (eg, drug, drug) or drug (eg, drug, drug) or drug or drug, the recommended dose of drug is 2 mg daily. 
+1	Potential for drug    to Affect Other Drugs drug is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes. 
+1	Given the primary CNS effects of drug, drug    should be used with caution in combination with other drug and drug. 
+2	drug may antagonize the effect of drug and other drug. 
+1	Potential for Other Drugs to Affect drug    drug is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely. 
+2	The concomitant use of drug with other drug or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects. 
+1	Mean drug plasma concentrations were approximately 2 fold higher when drug was administered with drug, a potent CYP3A4 inhibitor. 
+1	Other inhibitors of the cytochrome P450 3A4 enzyme system, such as drug (e.g., drug and drug) or drug (e.g., drug and drug), may alter drug mean pharmacokinetic parameters (i.e., Cmax and AUC). 
+1	Concurrent ingestion of drug (20 mL of drug containing drug, drug, and drug) did not significantly affect the exposure of drug or drug.    
+2	drug has been reported to accelerate the metabolism of drug by the mechanism of hepatic microsomal enzyme induction, leading to an increase in dosage requirements for drug. 
+1	Therefore, physicians should closely monitor patients for a change in drug dosage requirements when administering drug to patients on drug. 
+2	Concomitant administration of drug and drug has been associated with erythema and histamine-like flushing and anaphylactoid reactions. 
+1	Concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as drug, drug, drug, drug, drug, drug, or drug, when indicated, requires careful monitoring.
+2	Coadministration of drug with drug resulted in increased plasma drug concentrations (57%), increased plasma bismuth trough concentrations (48%), and increased drug plasma concentrations (31%). 
+1	Coadministration with drug results in a slight decrease in the rate of drug absorption that is clinically unimportant. 
+2	Coadministration with a high dose of drug (170 mEq) results in a 28% decrease in plasma concentrations of drug and may decrease plasma concentrations of bismuth from drug. 
+1	For information on drug interactions associated with drug, refer to the drug     package insert.
+1	These include drug, drug, and oral and inhaled drug. 
+2	However, the co   administration of drug with other drug   containing drugs (e.g., drug) has not been studied and is therefore not recommended.
+2	Prothrombin time or other suitable anticoagulation test should be monitored if drug is administered with drug.   
+2	Concurrent use of drug with oral drug may render oral drug less effective.  
+2	drug may enhance the sedative effects of drug including drug, drug, drug, drug, drug, and drug. 
+1	The effects of drug, such as drug and drug may be enhanced by the concomitant administration of drug. 
+1	CYP 3A4 Inhibitors (e.g. drug and drug) There have been rare reports of serious adverse events in connection with the coadministration of certain drug (e.g. drug and drug) and potent CYP 3A4 inhibitors, resulting in vasospasm leading to cerebral ischemia and/or ischemia of the extremities. 
+1	Examples of some of the more potent CYP 3A4 inhibitors include drug (e.g., drug, drug, drug), drug or drug (e.g., drug, drug, drug, drug) or drug (e.g., drug, drug, drug). 
+1	Less potent inhibitors include drug, drug, drug, grapefruit juice, drug, drug, drug, and drug. 
+1	Caution should be exercised when drug    (drug) is used concurrently with other drug or drug.
+1	Since drug is metabolized by a P450 enzyme system, drugs that induce or inhibit this drug metabolizing enzyme system may elicit important drug-drug interactions that may alter drug plasma concentrations. 
+2	Agents that might be coadministered with drug in AIDS patients for other indications that could elicit this activity include drug, drug, drug, drug, and drug. 
+2	In vitro perfusion of isolated rat liver has shown that drug caused a significant reduction in drug metabolism and that drug altered the relative concentration of trimetrexate metabolites possibly by competing for sulfate metabolites. 
+1	Based on an in vitro rat liver model, nitrogen substituted drug (drug, drug, drug) were potent, non-competitive inhibitors of drug metabolism. 
+1	drug has been studied on a background of drug and drug. 
+2	The use of drug, in combination with drug and drug, has been associated with an increase in bleeding compared to drug and drug alone (see
+2	however, in patients with Paget's Disease prior drug use appears to reduce the anti-resorptive response to drug nasal spray.
+1	To minimize CNS depression and possible potentiation, drug, drug, drug, drug or drug should be used with caution. 
+2	Because drug exhibits some monoamine oxidase inhibitory activity, drug, drug drugs (e.g., drug, drug) and other drugs and foods with known high drug content, such as wine, yogurt, ripe cheese and bananas, should be avoided. 
+1	No cross-resistance with other drug, radiotherapy or drug has been demonstrated.
+2	patients receiving drug and drug should have more frequent monitoring of neutrophil counts.
+1	A total of 11 clinical drug-drug interaction studies were conducted in healthy volunteers to evaluate the potential for interaction between drug and drug, drug, drug, drug, drug, drug, drug, drug, and drug. 
+1	There was no effect of a single dose or multiple doses of drug on drug, drug, drug, drug, and drug pharmacokinetics. 
+2	drug AUC was increased by 21% with no effect on Cmax in the presence of steady-state drug compared with drug alone. 
+2	drug AUC and Cmax were increased by 18% and 42%, respectively, in the presence of steady-state drug compared with drug alone. 
+1	Patients receiving drug or drug in combination with drug should be monitored for drug or drug toxicity and drug or drug dosage should be reduced if necessary. 
+2	Dosages of concomitantly administered drug should be reduced by approximately half, because drug amplifies the therapeutic actions and side-effects of drug. 
+1	Combination with drug (drug) is associated with increased risk of seizures. 
+2	Additive sedative effects and confusional states may emerge if drug is given with drug or drug. 
+2	Exert particular caution in combining drug with other drug (drug and drug): Particularly the elderly may develop delirium, high fever, severe obstipation, even ileus and glaucoma. 
+1	drug and/or stimulantes of the drug/drug type may counteract the specific actions of drug. 
+1	Although drug (a mixture of three stereoisomers) has been administered safely following succinylcholine-facilitated tracheal intubation, the interaction between drug and drug has not been systematically studied. 
+2	Prior administration of drug can potentiate the neuromuscular blocking effects of drug. 
+2	Evidence of spontaneous recovery from drug should be observed before the administration of drug. 
+1	The use of drug before drug to attenuate some of the side effects of drug has not been studied. 
+1	There are no clinical data on the use of drug with other drug. 
+1	drug and drug (administered with drug/drug to achieve 1.25 M.C. 
+1	A greater potentiation of the neuromuscular blocking effects of drug may be expected with higher concentrations of drug or drug. 
+1	Other drugs which may enhance the neuromuscular blocking action of drug such as drug include certain drug (e.g., drug, drug, drug, drug, drug, drug, drug, and drug), drug salts, drug, local drug, drug, and drug. 
+2	The neuromuscular blocking effect of drug may be enhanced by drugs that reduce plasma cholinesterase activity (e.g., chronically administered oral drug, drug, or certain drug) or by drugs that irreversibly inhibit plasma cholinesterase . Resistance to the neuromuscular blocking action of nondepolarizing drug has been demonstrated in patients chronically administered drug or drug. 
+1	While the effects of chronic drug or drug therapy on the action of drug are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher. 
+1	Some drug interactions are:  - birth control pills - drug - medicines for angina or high blood pressure - medicines for pain - medicines to control seizures such as drug or drug - certain drug given by injection - drug - drug - drug - drug or drug - local drug such as drug - general drug - drug or other drug
+2	Do not exceed a 5 mg daily dose of drug when administered with therapeutic doses of drug or other potent CYP3A4 inhibitors. 
+1	Patients with Congenital or Acquired QT Prolongation In a study of the effect of drug on the QT interval in 76 healthy women, the QT prolonging effect appeared less with drug 10 mg than with 30 mg (three times the maximum recommended dose), and the effect of drug 30 mg did not appear as large as that of the positive control drug at its therapeutic dose. 
+1	Interaction with drug: Although drug does not itself cause orthostatic hypotension, its administration to patients already receiving drug can result in profound orthostatic effects. 
+2	If at all possible drug should be discontinued well before drug is begun. 
+2	While co-administration of drug    appeared to increase the clearance of drug by 70%, these results are not conclusive because of the small number of subjects studied and because patients took variable doses of drug. 
+1	Combination therapy with drug    (drug) and drug    is not indicated.
+2	drug administered concomitantly with drug may significantly decrease the serum concentrations of drug. 
+1	Hypokalemia may develop during concomitant use of drug or drug. 
+2	drug may decrease arterial responsiveness to drug. 
+2	drug may increase the responsiveness of drug. 
+2	drug renal clearance is reduced by drug, increasing the risk of drug toxicity. 
+2	drug may add to or potentiate the action of other drug. 
+1	Potentiation occurs with drug or drug.
+1	drug: Patients on drug, and especially those started recently, may occasionally experience an excessive reduction of blood pressure after initiation of drug    Tablets therapy. 
+2	The possibility of hypotensive effects can be minimized by either discontinuing the drug or increasing the salt intake prior to initiation of treatment with drug. 
+2	If drug cannot be interrupted, close medical supervision should be provided with the first dose of drug    Tablets, for at least two hours and until blood pressure has stabilized for another hour. 
+1	The rate and extent of drug absorption and elimination are not affected by concomitant drug. 
+1	The bioavailability of drug was reduced by drug, however, and this was associated with a decrease in plasma ACE inhibition. 
+1	drug Supplements and drug: drug    Tablets may increase serum potassium because of its potential to decrease aldosterone production. 
+1	Use of drug (drug, drug, drug and others), drug supplements or other drugs capable of increasing serum potassium (drug, drug, drug and others) can increase the risk of hyperkalemia. 
+1	drug: Increased serum drug and symptoms of drug toxicity have been reported in patients receiving concomitant drug and ACE inhibitor therapy. 
+1	Use of a drug may further increase the risk of drug toxicity. 
+1	drug: A controlled pharmacokinetic study has shown no effect on plasma drug concentrations when coadministered with drug    Tablets, but an effect of drug on the plasma concentration of drug/drug has not been excluded. 
+1	drug: Animal data have suggested the possibility of interaction between drug and drug. 
+1	Food Interaction: Oral administration of drug    Tablets with food does not significantly lower the rate or extent of drug absorption relative to the fasted state. 
+1	However, the extent of biotransformation of drug to the active metabolite, drug, is reduced approximately 43%, resulting in a reduction in the plasma ACE inhibition curve of approximately 20%, probably clinically insignificant. 
+1	Concurrent use of drug and other drug may increase the CNS depressant effects of drug or these other medications.
+2	Administration of drug decreases oral clearance of drug by about 5%. 
+1	In a study in which 34 different drugs were tested, therapeutically relevant concentrations of drug, drug and drug displaced protein-bound drug in fresh human serum to a small but significant extent. 
+1	Therefore, caution should be used in administering drug (drug injection) to patients receiving these other agents. 
+1	There was no change in the plasma kinetics of drug when coadministered with drug. 
+2	An increase in intracellular levels of drug was observed in vitro in the presence of drug.
+1	drug (oral): The activity of oral drug may be potentiated by anti-vitamin-K activity attributed to drug.    
+1	drug: Serum digitalis levels may be increased when hyperthyroid patients on a stable drug regimen become euthyroid; 
+1	drug: drug clearance may decrease when hyperthyroid patients on a stable drug regimen become euthyroid; 
+1	The interaction of drug (drug) with other drugs has not been studied in humans. 
+2	Decreased seizure threshold has been reported in patients receiving drug concomitantly with drug.
+1	drug: drug and probably other drug given concomitantly with drug can cause unusually large or prolonged losses of fluid and electrolytes. 
+1	Other drug: When drug Tablets are used with other drug, care must be taken, especially during initial therapy. 
+1	drug, drug, and drug: The hypotensive effects of these drugs may be potentiated by the volume contraction that may be associated with drug therapy. 
+1	drug: drug-induced hypokalemia can increase the sensitivity of the myocardium to drug. 
+1	drug or drug: May increase the risk of hypokalemia and increase salt and water retention. 
+1	drug: Serum drug levels may increase. 
+1	drug: drug-induced hypokalemia may enhance neuromuscular blocking effects of drug (such as drug) the most serious effect would be respiratory depression which could proceed to apnea. 
+1	drug and Other drug: May decrease the antihypertensive effects of drug Tablets. 
+1	drug: drug may decrease arterial responsiveness to drug, but this diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. 
+2	drug: Efficacy may be decreased due to urinary alkalizing effect of drug. 
+1	drug: drug, as well as other drug, may affect the hypoprothrombinemic response to drug; 
+2	The following agents may increase certain actions or side effects of drug: drug, drug (e.g., drug), drug, drug (e.g., drug), drug, drug, drug (e.g., drug), drug and drug, drug, drug, and other drugs having anticholinergic activity. 
+2	drug antagonize the effects of drug. 
+2	drug in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as drug. 
+2	drug may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of drug; 
+2	drug may antagonize the effects of drugs that alter gastrointestinal motility, such as drug. 
+2	Because drug may interfere with the absorption of drug, simultaneous use of these drugs should be avoided. 
+2	drug should be used with caution in patients receiving other local drug or agents structurally related to drug, since the toxic effects of these drugs are additive. 
+2	In vivo, the plasma clearance of drug was reduced by 70% during coadministration of drug (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor. 
+2	Thus strong inhibitors of cytochrome P4501A2, such as drug, given concomitantly during administration of drug, can interact with drug leading to increased drug plasma levels. 
+1	Possible interactions with drugs known to be metabolized by CYP1A2 via competitive inhibition such as drug and drug may also occur. 
+1	Coadministration of a selective and potent inhibitor of CYP3A4, drug (100 mg bid for 2 days with drug infusion administered 1 hour after drug) caused a 15% reduction in in-vivo plasma clearance of drug.
+1	In elderly patients concurrently receiving certain drug, primarily drug, an increased incidence of thrombopenia with purpura has been reported. 
+1	It has been reported that drug may prolong the prothrombin time in patients who are receiving the drug drug. 
+2	drug may inhibit the hepatic metabolism of drug. 
+2	At a 1.6-g dose, drug produced a slight but significant increase in the half-life of drug but did not produce a corresponding decrease in the metabolic clearance rate. 
+2	drug can also displace drug from plasma protein-binding sites, thus increasing free drug concentrations. 
+1	There is usually complete cross-resistance between drug (drug) and drug brand drug. 
+1	As there is in vitro evidence that drug (e.g., drug, drug, or drug) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent drug therapy.    
+2	drug has been reported to enhance the sedative activity of drug, drug, drug, and drug. 
+1	Oral drug: In 10 healthy women, the pharmacokinetic profiles of drug and drug following administration of a single dose containing 1.0 mg of drug and 75    g of drug were studied. 
+1	Important Non-drug Drug Interactions Drugs That Interfere with drug: Concomitant use of drug, drug, drug, drug, drug, drug, drug, drug, or certain herbal supplements such as St. 
+2	drug with drug may reduce the effectiveness of the contraception and up to one month after discontinuation of these concomitant therapies. 
+2	Catecholamine-depleting drugs (e.g., drug) may have an additive effect when given with drug. 
+2	The CNS-depressant effect of drug is additive with that of other drug, including drug. 
+1	Such occurrences have been reported when drug was administered to patients on drug, drug, or drug-like drugs. 
+1	drug at a Dose of 10 mg Once Daily Dosed to Pharmacokinetic Steady State  - did not cause clinically significant changes in the kinetics of a single intravenous dose of drug (predominantly a cytochrome P450 1A2 substrate). 
+1	- did not change the pharmacokinetic profile of drug (a substrate of cytochromes P450 2A6 and 2C9) or influence the effect of a single 30-mg oral dose of drug on prothrombin time or the INR (International Normalized Ratio). 
+1	- did not change the plasma concentration profile of drug (a substrate of cytochrome P450 3A4) or drug, its carboxylated metabolite, and did not prolong the QTc interval following co-administration with drug 60 mg twice daily. 
+1	drug at Doses of    100 mg Daily Dosed to Pharmacokinetic Steady State:  - did not significantly alter the plasma concentrations of either component of an oral drug containing drug 1 mg/ethinyl drug 35 mcg. 
+1	- did not cause any clinically significant change in plasma profiles of drug or drug following administration of either oral drug or intravenous drug.  
+1	drug, which induces hepatic metabolism, decreased the AUC of drug approximately 40% following a single 10-mg dose of drug. 
+1	It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as drug or drug, are co-administered with drug. 
+1	In drug-interaction studies, the recommended clinical dose of drug did not have clinically important effects on the pharmacokinetics of the following drugs: drug, drug, drug, oral drug (drug 1 mg/drug 35 mcg), drug, drug, and drug. 
+1	These medications included drug, drug, drug, drug, and drug. 
+1	drug, which induces hepatic metabolism, decreased the AUC of drug approximately 40% following a single 10-mg dose of drug. 
+1	It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as drug or drug, are co-administered with drug.
+1	drug/drug: drug/drug does not influence the pharmacokinetics of drug in healthy volunteers (N= 10). 
+1	drug: In healthy volunteers (N= 11), drug did not influence the pharmacokinetics of drug. 
+1	drug: Population pharmacokinetic analysis suggests that drug is unlikely to alter the oral clearance of drug (N= 54). 
+1	drug: drug, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in drug AUC and a 40% increase in half-life (N= 12). 
+1	drug: drug, a known inhibitor of renal tubular secretion of organic acids via the aruonic transporter, did not noticeably influence drug pharmacokinetics (N= 12). 
+1	Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., drug, drug, drug, drug, drug, drug, and drug) decreases the oral clearance of drug by about 20%, while those secreted by the anionic transport system (e.g., drug, drug, drug, drug, and drug) are likely to have little effect on the oral clearance of drug. 
+1	CYP interactions: Inhibitors of cytochrome P450 enzymes would not be expected to affect drug elimination because drug is not appreciably metabolized by these enzymes in vivo or in vitro. 
+1	drug: Since drug is a drug, it is possible that drug, such as the drug (drug, drug, drug) or drug, may diminish the effectiveness of drug. 
+1	Based on studies evaluating possible interactions of drug with other drugs, no dosage adjustment is needed with concomitant use of the following: drug, drug, drug, drug, drug, drug (and its active metabolite, drug), drug, drug, drug, drug, drug, drug, an oral drug (drug/drug), drug, drug, drug, drug, drug, drug, drug, or drug. 
+1	Therefore, when coadministered with drug, adjustment of the dosage of drug or of such drugs may not be necessary. 
+1	There have been postmarketing reports of increased INR and prothrombin time in patients receiving drug, including drug, and drug concomitantly. 
+2	Patients treated with drug and drug concomitantly should be monitored for increases in INR and prothrombin time. 
+2	Because of profound and long lasting inhibition of gastric acid secretion, drug may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, drug, drug esters, and drug salts). 
+1	Laboratory Tests There have been reports of false-positive urine screening tests for drug (drug) in patients receiving most drug, including drug. 
+1	Other eye drops or medications such as drug (drug) and drug (drug, drug) may decrease the effects of drug ophthalmic.
+2	You cannot take drug if you have taken a drug (drug) such as drug (drug), drug (drug), or drug (drug) in the last 14 days. 
+2	Changes in drug and other diabetes drug therapies may be necessary during treatment with drug.
+2	drug may reduce the effects of drug (drug). 
+1	Before taking this medication, tell your doctor if you are taking a drug such as drug (drug), drug (drug), drug (drug), drug (drug), drug (drug), drug (drug), drug (drug), or drug (drug). 
+1	Pharmacokinetic properties of drug were not altered by the addition of either drug or drug or the combination of drug and drug. 
+1	No clinically significant changes to drug or drug pharmacokinetics were observed following concomitant administration of drug. 
+1	drug has no effect on the pharmacokinetic properties of drug. 
+2	drug decreases the elimination of drug causing an increase in overall exposure . The addition of drug has no clinically significant effect on the pharmacokinetic properties of drug. 
+2	In a study of 11 HIV-infected patients receiving drug-maintenance therapy (40 mg and 90 mg daily) with 600 mg of drug twice daily (twice the currently recommended dose), oral drug clearance increased 22% (90% CI 6% to 42%). 
+2	drug may increase the effects of drug, drug, and drug. 
+1	It may also interact with drug (increased thrombocytopenia), drug (increased nephrotoxicity), drug (increased hypoglycemic response), drug (increased anticoagulant effect), drug (decreased renal excretion of drug), drug (decreased hepatic clearance of drug).
+2	drug are capable of potentiating drug (e.g., drug, drug, drug, drug, etc.) 
+1	as well as drug and drug.
+1	Pharmacokinetic studies show that there are no significant alterations in pharmacokinetic parameters of drug or drug to warrant dosage adjustment when drug is administered with these drugs. 
+2	A pharmacokinetic study demonstrated that coadministration of drug and drug results in a significant decrease in the pharmacokinetic parameters (~36% for Cmax and ~28% for AUC) of drug. 
+2	Administration of a higher dose of drug should be considered when coadministering with drug. 
+1	The effects of drug, drug or drug on the pharmacokinetics of drug were not studied.
+2	drug has been reported to prolong the elimination half-life of drug and may lead to severe bone marrow suppression; 
+2	a reduction of the drug dosage should be considered in patients receiving drug concurrently. 
+2	The concurrent use of drug and drug has been reported in one case to result in reduced drug cytotoxicity.    
+1	drug should be used with caution in digitalized patients, since the combination of drug and drug may cause ectopic arrhythmias. 
+1	drug or drug may potentiate the action of drug. 
+2	drug can interact with drug, drug, drug, drug, and drug.
+2	drug may decrease the effectiveness of oral drug, certain drug, drug, drug, drug, drug, and drug.
+2	drug may increase the effects of drug, drug, and drug. 
+1	It may also interact with drug (increased thrombocytopenia), drug (increased nephrotoxicity), drug (increased hypoglycemic response), drug (increased anticoagulant effect), drug (decreased renal excretion of drug), drug (decreased hepatic clearance of drug).
+1	Patients studied in clinical trials of drug were routinely treated with drug and drug. 
+1	drug (such as drug and drug) and drugs that alter platelet function (such as drug, drug, and GP IIb/IIIa inhibitors) may increase the risk of bleeding if administered prior to, during, or after drug therapy. 
+1	drug: The effects of chronic drug use on the metabolism of drug are not known. 
+2	When a single 100 mg dose of drug was administered one hour after the initiation of drug (300 mg four times a day), the apparent total drug clearance of this single dose in normal healthy adults was reduced by 18% (compared to the apparent total drug clearance in the same subjects in the absence of drug). 
+1	drug: drug, 100 mg, was given twice daily for 13 days to 12 healthy volunteers. 
+2	Coadministration with drug reduced the peak concentration and AUC values for drug by approximately 11%. 
+1	drug: drug, 100 mg, was given twice daily fro 13 days to 12 healthy volunteers. 
+2	Peak plasma concentrations and AUC of drug were reduced approximately 10% in the presence of drug.
+2	drug may inhibit the hepatic metabolism of drug. 
+2	drug, given at a common clinical dosage, increased the drug half-life by 51% and decreased the drug metabolic clearance rate by 30%. 
+2	drug should be administered with caution to patients taking drug because of the possibility of conduction disturbances. 
+1	These effects should be considered when anticholinergic properties may be contributing to the therapeutic effect of concomitant medication (e.g., drug, inhaled drug). 
+1	While no formal drug interaction studies have been performed, the following concomitant drugs were used in at least 10% of patients in either or both Sj   grens efficacy studies: drug, artificial tears, drug, drug, drug, drug, drug, drug, drug, drug, drug, drug, drug, and drug.
+2	Mutual inhibition of metabolism occurs with concurrent use of drug and drug; 
+2	convulsions have been reported with concurrent use of drug and drug. 
+1	Drugs that induce hepatic enzymes such as drug, drug, and drug may increase the clearance of drug and may require increased in drug dose to achieve the desired response. 
+1	Drugs such as drug and drug may inhibit the metabolism of drug and thus decrease its clearance. 
+2	drug may increase the clearance of chronic high dose drug. 
+1	This could lead to decreased drug serum levels or increase the risk of drug toxicity when drug is withdrawn. 
+2	drug should be used cautiously in conjunction with drug in patients suffering from hypoprothrombinemia. 
+1	The effect of drug on oral drug is variable. 
+2	There are reports of enhanced as well as diminished effects of drug when given concurrently with drug. 
+2	The effects of drug on gastrointestinal motility are antagonized by drug and drug. 
+2	Additive sedative effects can occur when drug is given with drug, drug, drug, drug, or drug. 
+2	The finding that drug releases catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients receiving drug. 
+2	Absorption of drugs from the stomach may be diminished (e.g., drug) by drug, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., drug, drug, drug, drug, drug). 
+2	Because the action of drug will influence the delivery of food to the intestines and thus the rate of absorption, drug dosage or timing of dosage may require adjustment.
+1	drug, particularly drug, may cause serious cardiac arrhythmias during drug anesthesia and therefore should be used only with great caution or not at all. 
+1	drug: The pressor effect of drug is markedly potentiated in patients receiving drug (drug). 
+2	The pressor response of drug may also be potentiated by drug.
+1	drug may interact with drug (drug type), drug (e.g., drug, drug, drug, drug, drug, drug), drug, drug, drug (e.g., drug), other drug, drug supplements, drug, drug (e.g., drug-drug), drug (e.g., drug, drug).
+2	Due to its effects on gastric emptying, drug therapy should not be considered for patients taking drugs that alter gastrointestinal motility (e.g., drug such as drug) and agents that slow the intestinal absorption of nutrients (e.g., drug). 
+2	When the rapid onset of a concomitant orally administered agent is a critical determinant of effectiveness (such as drug), the agent should be administered at least 1 hour prior to or 2 hours after drug injection. 
+1	In clinical trials, the concomitant use of drug or drug did not alter the adverse event profile of drug. 
+1	No formal interaction studies have been performed to assess the effect of drug on the kinetics of oral drug. 
+1	Mixing drug and drug The pharmacokinetic parameters of drug were altered when mixed with regular, NPH, and 70/30 premixed formulations of recombinant drug immediately prior to injection. 
+1	Thus, drug and drug should not be mixed and must be administered separately.
+1	Patients receiving drug and drug generally should not be treated with drug.  
+2	The action of drug may be potentiated by anesthesia, other drug and drug.
+2	Oral drug has been reported to potentiate the anticoagulant effect of drug and drug, resulting in a prolongation of prothrombin time. 
+1	Drug interactions should be kept in mind when drug (drug gel), 1% is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical drug administration because of low absorption.    
+2	Concomitant use of drug with drug may result in an adverse drug interaction.
+2	Other drug should not be used concomitantly with drug because they may have additive effects.
+2	A study published in 2002 found that drug causes a statistically significant increase in plasma clearance of drug. 
+2	In 1984, Drs Rimmer and Richens at the University of Wales reported that administering drug with drug lowered the serum drug concentration in patients with treatment-resistant epilepsy. 
+1	drug: Concurrent use of drug and drug may result in increased systemic toxicity since drug inhibit the breakdown of drug. 
+1	drug medications: Concurrent use of drug and drug may result in additive depressant effects. 
+1	drug: drug may increase the diffusion rate of drug, resulting in a decreased time of onset, but an increase in systemic toxicity. 
+1	drug (such as drug): Concurrent use of drug and drug may result in prolongation or enhancement of the neuromuscular blockade. 
+1	drug: Concurrent use of drug and drug may result in a reduction of the antibacterial action of the drug. 
+1	drug: Concurrent use of drug and drug may extend the plasma half-life of drug.
+2	Co-administration of drug with strong inhibitors of the CYP3A4 family (e.g., drug, drug, drug, drug, drug, drug, drug, drug, drug, drug, drug) may increases drug concentrations. 
+2	Co-administration of drug with inducers of the CYP3A4 family (e.g., drug, drug, drug, drug, drug, drug, drug, St. Johns Wort) may decrease drug concentrations. 
+1	Drugs that induce hepatic enzymes such as drug, drug and drug may increase the clearance of drug and may require increases in drug dose to achieve the desired response. 
+1	Drugs such as drug and drug may inhibit the metabolism of drug and thus decrease their clearance. 
+2	drug may increase the clearance of chronic high dose drug. 
+1	This could lead to decreased drug serum levels or increase the risk of drug toxicity when drug is withdrawn. 
+2	drug should be used cautiously in conjunction with drug in patients suffering from hypoprothrombinemia. 
+2	The effect of drug on oral drug is variable. 
+2	There are reports of enhanced as well as diminished effects of drug when given concurrently with drug. 
+1	Interactions for drug (drug):  drug, Oral drug, drug, drug
+1	Drug-Drug Interactions Effect of drug    (drug) on the Metabolism of Other Drugs: drug is primarily metabolized through hydrolysis by esterases. 
+1	No pharmacokinetic interaction was observed between drug and drug, drug, drug, or drug in studies in healthy volunteers. 
+1	The elevation of prothrombin time induced by drug is not affected by administration of drug. 
+1	Effect of Other Drugs on the Metabolism of drug: Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of drug. 
+1	Single dose pharmacokinetic studies demonstrated that the metabolism of drug is not significantly affected by concurrent administration of drug, drug, drug, or drug. 
+1	Population PK analysis with a database of 625 patients showed that the pharmacokinetics of drug were not influenced by commonly prescribed medications such as drug (n=77), drug (n=72), drug (n=75), drug (n=21), drug (n=79), drug (n=70), drug (n=177), drug (n=35), and drug (n=15). 
+1	Use with drug: Because of their mechanism of action, drug have the potential to interfere with the activity of drug. 
+1	Use with drug and Other drug: A synergistic effect may be expected when drug are given concurrently with drug, similar drug or drug such as drug.
+1	drug: Spontaneous adverse reaction reports of patients taking concomitant drug with recommended doses of drug demonstrate QT interval prolongation and rare serious cardiac events, e.g. 
+2	Pharmacokinetic data indicate that drug markedly inhibits the metabolism of drug, resulting in elevated plasma drug levels. 
+2	Concomitant administration of drug and drug is contraindicated. 
+1	drug: Torsades de pointes and elevated parent drug levels have been reported during concomitant use of drug and drug in clinical trials of drug and from foreign post-marketing sources. 
+2	Concomitant administration of drug and drug is contraindicated. 
+1	Due to the chemical similarity of other drug (including drug, drug, and drug) to drug, and drug, concomitant use of these products with drug is not recommended pending full examination of potential interactions. 
+1	drug: Clinical drug interaction studies indicate that drug and drug can exert an effect on drug metabolism by a mechanism which may be similar to that of drug, but to a lesser extent. 
+1	A few spontaneous accounts of QT interval prolongation with ventricular arrhythmia including torsades de pointes, have been reported in patients receiving drug or drug. 
+2	Concomitant administration of drug with drug, drug, or drug is contraindicated: Pending full characterization of potential interactions, concomitant administration of drug with other drug, including drug, is not recommended. 
+1	Studies to evaluate potential interactions of drug with drug are in progress.
+2	Caution is recommended when administering drug with compounds that are metabolized/eliminated predominantly by the UGT1A1 pathway (e.g. drug). 
+2	Concomitant treatment with drug resulted in a 21% increase in the AUC of drug. 
+2	Caution is recommended when administering drug with drug. 
+2	In a pharmacokinetic study of 18 chronic hepatitis C patients concomitantly receiving drug, treatment with drug once weekly for 4 weeks was associated with a mean increase of 16% in drug AUC; 
+1	Since drug is a substrate for the metabolic pathways involving CYP2D6 and CYP1A2 enzymes, inhibition or induction of either of these enzymes would be expected to alter drug plasma concentrations. 
+2	In a formal, single-dose interaction study (n = 6 males) the clearance of drug was decreased by 38% following the coadministration of drug, an inhibitor of CYP1A2. 
+1	In another formal study (n = 8 extensive and n = 7 poor metabolizers of CYP2D6), coadministration of drug did not alter the kinetics of drug in the poor CYP2D6 metabolizer group. 
+1	In this crossover steady state study, the pharmacokinetics of drug were unaffected in either phenotype by the coadministration of drug. 
+1	Addition of drug to drug did not lead to further electrocardiographic parameters changes of QRS, QTc, RR, and PR intervals than drug alone. 
+1	When concomitant administration of either of these two drugs with drug is initiated, the dose of drug should be slowly titrated to desired effect. 
+1	In a large compassionate use program drug    has been used concurrently with commonly employed antianginal, drug, and drug without observed interactions. 
+1	A variety of drug such as drug or drug were also added, sometimes with improved control of ventricular ectopy. 
+1	When drug or other hepatic enzyme inducers such as drug and drug have been taken concurrently with drug   , lowered drug    plasma levels have been reported. 
+1	In a formal study, drug were shown not to affect drug    plasma concentrations. 
+1	ECG intervals (PR, QRS, and QT) were not affected by concurrent drug    and drug, drug, or drug. 
+2	Concurrent administration of drug and drug    has been reported to increase, decrease, or leave unchanged drug    plasma levels; 
+1	drug    does not alter serum drug levels but drug, when used to treat gastrointestinal symptoms due to drug   , has been reported to lower serum drug levels. 
+2	Concurrent use of drug    and drug may lead to increased plasma drug levels. 
+1	This increase was observed at the first test point which was the second day after starting drug   . drug plasma levels returned to pre-drug    values within 48 hours after discontinuing drug   . If drug and drug are to be used concurrently, drug blood levels should be monitored, particularly when the drug    dose is changed. 
+2	Additionally, in one controlled study in five normal subjects and seven patients, the clearance of drug was decreased 50% following the administration of drug   .
+1	Usage with drug: Due to the potential for increased CNS depressants effects, drug should be used with caution in patients who are currently receiving drug.
+2	drug may compete with other drugs, such as drug, for sites of metabolism in the liver, thus elevating the serum levels of such compounds to potentially toxic levels. 
+2	Therefore, when concomitant use of drug and drug is anticipated, it may be necessary to monitor blood levels and/or reduce the dosage of such compounds. 
+1	drug may be used with drug, drug and other drug, and with other drug. 
+1	drug (drug) should be administered until normal hematopoiesis is restored. 
+2	Mild hepatotoxicity has been reported in some patients when drug and drug were administered concomitantly.
+2	drug inhibits some of the liver's ability to metabolize some other drugs - drug, drug, drug, drug, and drug. 
+2	drug may interact with drug or drug (causing too great a decrease in adrenal function).
+2	Concomitant administration of substances that are also tubularly secreted (e.g., drug) could potentially result in delayed clearance of drug. 
+1	Although drug (400 mg qid) can be administered with drug in patients with normal renal function (creatinine clearance    80 mL/min), caution should be used when administering drug concurrently with drug to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min). 
+2	Patients with mild to moderate renal insufficiency should avoid taking drug with short elimination half-lives for a period of 2 days before, the day of, and 2 days following administration of drug. 
+1	In the absence of data regarding potential interaction between drug and drug with longer half-lives, all patients taking these drug should interrupt dosing for at least 5 days before, the day of, and 2 days following drug administration. 
+2	drug may decrease the hypotensive effect of drug. 
+2	Human pharmacologic studies have shown that drug may inhibit the metabolism of drug, drug (drug, drug, drug), drug, and drug (drug, drug, drug). 
+1	The safety of using drug in combination with drug or other centrally acting drug has not been systemically evaluated.    
+1	drug: Prolongation of prothrombin time (PT) and International Normalized Ratio (INR) were observed in patients receiving drug concomitantly with drug. 
+2	Physicians should carefully monitor PT and INR in patients concurrently administered drug and drug. 
+1	Other drug Severe thrombocytopenia and gastrointestinal bleeding have been reported with concomitant use of drug and other drug (e.g., drug). 
+1	No pharmacokinetic interaction between 85 mg/m2 drug and infusional drug has been observed in patients treated every 2 weeks. 
+2	Increases of drug plasma concentrations by approximately 20% have been observed with doses of 130 mg/m2 drug dosed every 3 weeks. 
+1	drug: In a multiple-dose study in 30 normal weight subjects, coadministration of drug and 40 grams of drug (e.g., approximately 3 glasses of wine) did not result in alteration of drug pharmacokinetics, drug pharmacodynamics (fecal fat excretion), or systemic exposure to drug. 
+1	drug: Preliminary data from a drug and drug drug interaction study indicate a reduction in drug plasma levels when drug was coadministered with drug. 
+1	drug: In 12 normal-weight subjects receiving drug 120 mg three times a day for 6 days, drug did not alter the pharmacokinetics of a single dose of drug. 
+1	drug and Analogues: A pharmacokinetic interaction study showed a 30% reduction in drug supplement absorption when concomitantly administered with drug. 
+2	drug inhibited absorption of a drug supplement by approximately 60%. 
+1	The effect of drug on the absorption of supplemental drug, drug, and nutritionally-derived drug is not known at this time. 
+1	drug: In 12 normal-weight subjects receiving drug 80 mg three times a day for 5 days, drug did not alter the pharmacokinetics or pharmacodynamics (blood glucose-lowering) of drug. 
+1	drug (extended-release tablets): In 17 normal-weight subjects receiving drug 120 mg three times a day for 6 days, drug did not alter the bioavailability of drug (extended-release tablets). 
+1	Oral drug: In 20 normal-weight female subjects, the treatment of drug 120 mg three times a day for 23 days resulted in no changes in the ovulation-suppressing action of oral drug. 
+1	drug: In 12 normal-weight subjects receiving drug 120 mg three times a day for 7 days, drug did not alter the pharmacokinetics of a single 300-mg dose of drug. 
+1	drug: In a 2-way crossover study of 24 normal-weight, mildly hypercholesterolemic patients receiving drug 120 mg three times a day for 6 days, drug did not affect the pharmacokinetics of drug. 
+1	drug: In 12 normal-weight subjects, administration of drug 120 mg three times a day for 16 days did not result in any change in either drug pharmacokinetics (both R- and S-enantiomers) or pharmacodynamics (prothrombin time and serum Factor VII). 
+1	Although undercarboxylated osteocalcin, a marker of vitamin K nutritional status, was unaltered with drug administration, vitamin K levels tended to decline in subjects taking drug. 
+2	Therefore, as drug absorption may be decreased with drug, patients on chronic stable doses of drug who are prescribed drug should be monitored closely for changes in coagulation parameters.
+1	In vitro studies with human liver microsomes showed that drug does not inhibit the metabolism of drug, drug, drug, and drug. 
+1	This may be of clinical relevance for compounds predominantly metabolized by this enzyme, such as drug,    -blockers, drug (drug), and drug, if they have a narrow therapeutic window. 
+1	In vivo drug-drug interaction studies conducted in normal volunteer subjects showed that drug does not affect the clearance of drug or drug. 
+2	drug decreases the clearance of drug by 19%. 
+2	drug increases the clearance of drug by 15%. 
+2	There have been spontaneous reports of increase or decrease in prothrombin times in patients concomitantly taking oral drug and drug, however, a causal relationship between drug    Tablets and these changes has not been established. 
+2	drug clearance is increased 100% by drug, a CyP450 enzyme inducer, and decreased 33% by drug, a CyP450 enzyme inhibitor. 
+1	drug clearance is unaffected by drug. 
+1	There is no information available from adequate drug-drug interaction studies with the following classes of drugs: oral drug, hormone replacement therapies, drug, drug, drug, drug, drug, and drug.
+1	drug AND OTHER drug WILL BE ADDITIVE TO drug AND MAY INCREASE PLASMA CONCENTRATIONS OF drug TO TOXIC LEVELS. 
+2	drug given concomitantly with drug may predispose to systemic bleeding. 
+2	drug may enhance the hypoglycemic effect of oral drug of the sulfonylurea class. 
+2	drug competes with a number of drugs for protein binding sites, notably drug, drug, drug, drug, drug, drug, drug, drug, drug, and possibly drug. 
+2	Catecholamine-depleting drugs (e.g., drug) may have an additive effect when given with drug. 
+1	drug has been used with a variety of drug, including drug, drug, and drug without unexpected adverse interactions. 
+2	drug has been shown to increase serum drug levels when both drugs are co-administered. 
+1	Although specific drug or food interactions with drug have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that drug, drug, drug, and grapefruit juice may inhibit its metabolism (increasing serum levels of drug). 
+1	Furthermore, drug, drug, St. 
+1	John   s Wort, and certain drug (drug, drug, drug) may induce drug metabolism (lowering serum levels of drug). 
+1	In addition to bleeding associated with drug and drug, drugs that alter platelet function (such as drug, drug, and drug) may increase the risk of bleeding if administered prior to or after drug    therapy.
+2	The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of drug and drug. 
+2	This is typical of the interaction of drug and drug. 
+2	Severe toxicity has also been reported in patients receiving the combination of drug and drug and drug and drug. 
+2	One case of hypertensive crisis has been reported in a patient taking the recommended doses of drug and a drug (drug).
+2	Caution should be exercised when administering drug therapy in combination with other drug. 
+2	Caution should be observed in administering drug to patients receiving drug or drug because the extrapyramidal effects of these drugs can be expected to be potentiated by inhibition of catecholamine synthesis. 
+2	Concurrent use of drug with drug or other drug can increase their sedative effects.
+2	The metabolism of drug is accelerated by drug; 
+2	drug inhibits the glucuronidation of drug and could possibly potentiate drug toxicity.
+1	drug, such as the drug (drug, drug, drug ) or drug, ordinarily should not be administered concurrently with drug (a drug); 
+1	Because drug is approximately 90% bound to plasma proteins, caution should be exercised if drug is coadministered with other drugs known to affect protein binding.
+1	Co-administration of oral drug 200 mg twice daily increased drug geometric mean AUC(0-24) and Cmax by 81% after topical application of drug ointment, 1% on the abraded skin of healthy adult males. 
+1	Due to low systemic exposure to drug following topical application in patients, dosage adjustments for drug are unnecessary when co-administered with CYP3A4 inhibitors, such as drug. 
+1	Based on in vitro P450 inhibition studies and the low systemic exposure observed following topical application of drug, drug is unlikely to affect the metabolism of other P450 substrates. 
+2	A multiple dose drug-drug interaction study demonstrated that drug approximately doubled drug AUC0-   . Since drug is partially metabolized by CYP3A and drug le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing drug with drug and other strong P450 3A inhibitors including drug, drug, drug, drug, drug, drug, drug, drug, drug or drug. 
+2	Dose adjustment of drug Capsules may be required, and iPTH and serum calcium concentrations should be closely monitored if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor such as drug. 
+2	Drugs that impair intestinal absorption of drug, such as drug, may interfere with the absorption of drug Capsules.
+2	Caution is advised for patients receiving high-dose drug and drug concomitantly, as anorexia, tachypnea, lethargy, coma and death have been reported with concomitant use of high-dose drug and drug.
+1	Drug-Drug Interactions: The pharmacokinetic and pharmacodynamic interactions between drug capsules and other drug have not been determined. 
+2	However, interactions may be expected and drug capsules should NOT be used in combination with other drug. 
+1	The pharmacokinetic interaction between drug and drug capsules was investigated. 
+2	Therefore, drug capsules should be used with caution in combination with drug, particularly at doses higher than 0.4 mg. 
+1	Results from limited in vitro and in vivo drug-drug interaction studies between drug and drug are inconclusive. 
+2	Therefore, caution should be exercised with concomitant administration of drug and drug capsules.        
+1	If drug replacement is required, the drug dose should be carefully adjusted. 
+2	Limited published data indicate that drug treatment increases cytochrome P450 (CP450) mediated drug clearance in man. 
+2	These data suggest that drug administration may alter the clearance of compounds known to be metabolized by CP450 liver enzymes (e.g., drug, drug, drug, drug). 
+2	The CNS depressant effects of drug may be additive with that of other drug..
+1	Use with Other drug: The depressant effects of drug are potentiated by the presence of other drug such as drug, drug, drug, or drug. 
+2	Use of drug in conjunction with oral drug may increase the risk of respiratory depression, hypotension and profound sedation or coma. 
+1	Interaction with drug: drug (i.e., drug, drug, drug, or drug) should NOT be administered to patients who have received or are receiving a course of therapy with a proof drug. 
+1	Because there is a theoretical basis that these effects may be additive, use of drug-containing or drug (like drug or drug) and drug within 24 hours of each other should be avoided. 
+2	drug reduce drug clearance, significantly increasing systemic exposure. 
+2	Therefore, the use of drug tablets in patients receiving drug is contraindicated . drug (drug) (e.g., drug, drug, drug, drug) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with drug. 
+2	If concomitant treatment with drug and an drug is clinically warranted, appropriate observation of the patient is advised.
+1	drug: Absorption of a single dose of drug was decreased when administered to 12 stable renal transplant patients also taking drug-drug containing drug (30 mL): the mean Cmax and AUC(0-t) values for MPA were 25% and 37% lower, respectively, than when drug was administered alone under fasting conditions. 
+2	It is recommended that drug and drug not be administered simultaneously. 
+1	drug: When studied in stable renal transplant patients, drug, USP (MODIFIED) pharmacokinetics were unaffected by steady state dosing of drug. 
+1	drug/drug: may be taken with drug; 
+1	Both drug/drug and drug concentrations are increased in the presence of renal impairment, their coexistence may compete for tubular secretion and further increase in the concentrations of the two. 
+1	drug/drug: Given that drug and drug inhibit purine metabolism, it is recommended that drug not be administered concomitantly with drug or drug. 
+1	drug and Drugs that Bind Bile Acids: These drugs interrupt enterohepatic recirculation and reduce drug exposure when coadministered with drug. 
+2	Therefore, do not administer drug with drug or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral drug, because of the potential to reduce the efficacy of drug. 
+1	Oral drug: Given the different metabolism of drug and oral drug, no drug interaction between these two classes of drug is expected. 
+2	However, in a drug-drug interaction study, mean drug AUC was decreased by 15% when coadministered with drug. 
+2	Therefore, it is recommended that oral drug are co- administered with drug with caution and additional birth control methods be considered. 
+1	drug: During treatment with drug, the use of drug should be avoided and patients should be advised that vaccinations may be less effective. 
+1	Interference of drug hydrolysis may lead to less drug available for absorption.
+1	Although this has not occurred in in vitro studies with drug, interactions with drug have been reported with drug since marketing, therefore, physicians should closely monitor patients for a change in dosage requirements when administering drug to patients on drug and other highly protein-bound drugs. 
+1	Plasma levels of drug are depressed to approximately 80% of their normal values when drug is administered in conjunction with drug (3900 mg/day), but concomitant administration of drug has no effect on drug plasma levels . drug, including drug, have been reported to increase steady state plasma drug levels. 
+2	It is recommended that plasma drug levels be monitored when initiating, adjusting and discontinuing drug.
+1	drug, particularly drug, may cause serious cardiac arrhythmias during drug anesthesia and therefore should be used only with great caution or not at all. 
+1	drug - The pressor effect of drug is markedly potentiated in patients receiving drug (drug). 
+2	The pressor response of drug may also be potentiated by drug.
+1	Acromegalic patients with diabetes mellitus being treated with drug and/or oral drug agents may require dose reductions of these therapeutic agents after the initiation of therapy with drug. 
+2	In clinical studies, patients on drug often needed higher serum drug concentrations to achieve appropriate IGF-I suppression compared with patients not receiving drug. 
+1	drug: There was a slight increase in the area under the curve (AUC, 11%) and mean peak drug concentration (Cmax, 18%) of drug with the co-administration of 100 mg drug for 10 days. 
+1	No dosage adjustment of drug or drug is recommended.
+2	Limited evidence suggests that drug may influence the intensity and duration of action of drug.
+2	drug can interact with the drugs of the following categories:  - Blood dyscrasia: can cause unpredictable myelotoxicity - Bone marrow depressants: can cause a predictable dose-related myelotoxicity - Radiation therapy: may cause marrow depression - Neurotoxic medications: can cause neurologic toxicity - drug: can increase seizure activity - drug: may potentiate the replication of the drug virus, may increase the side effects of the vaccination, and decrease patient's response to the vaccine - drug: may cause shortness of breath and bronchospasm - drug: may decrease patient's response to the drug
+1	drug: Excessive reductions in blood pressure may occur in patients on diuretic therapy when drug are started. 
+1	The possibility of hypotensive effects with drug    can be minimized by discontinuing diuretic therapy for several days or cautiously increasing salt intake before initiation of treatment with drug   . If this is not possible, the starting dose of drug should be reduced.. 
+1	drug Supplements and drug: drug    can increase serum potassium because it decreases aldosterone secretion. 
+1	Use of drug (drug, drug, drug) or drug supplements concomitantly with drug can increase the risk of hyperkalemia. 
+1	Oral drug: Interaction studies with drug failed to identify any clinically important effect on the serum concentrations of the drug or on its anticoagulant effect. 
+1	drug: Increased serum drug levels and symptoms of drug toxicity have been reported in patients receiving drug during therapy with drug. 
+2	If a drug is also used, the risk of drug toxicity may be increased. 
+1	Other Agents: No clinically important pharmacokinetic interactions occurred when drug    was administered concomitantly with drug, drug, or drug. 
+1	drug    has been used in clinical trials concomitantly with drug, drug, drug, drug, oral drug, and cholesterol-lowering agents. 
+2	drug may interact with the following drugs: drug and other drug (may lower drug levels), drug (bioavailability of oral drug is increased with coadministration), drug (may decrease drug levels), drug (reports of psychotic episodes when coadministered), drug (coadministration of drug with drug can inhibit ovarian function in women), drug and other sedating drugs (may result in additive sedation and an increased incidence of adverse effects), and drug (coadministration of drug and drug may interfere with the efficacy of the drug).
+1	Drugs Affecting Hepatic Metabolism The metabolism and pharmacokinetics of drug    (drug) Orally Disintegrating Tablets may be affected by the induction or inhibition of drug-metab-olizing enzymes. 
+1	While in vitro studies have shown that drug is not a potent inhibitor of any of these enzymes, an indication that drug is not likely to have a clinically significant inhibitory effect on the metabolism of other drugs that are substrates for these cytochrome P450 enzymes, the concomitant use of drug with most other drugs metabolized by these enzymes has not been formally studied. 
+1	drug: Concomitant administration of drug (equivalent to 60 g) had a minimal effect on plasma levels of drug (15 mg) in 6 healthy male subjects. 
+2	However, the impairment of cognitive and motor skills produced by drug    were shown to be additive with those produced by drug. 
+2	Accordingly, patients should be advised to avoid drug while taking drug. drug: Concomitant administration of drug (15 mg) had a minimal effect on plasma levels of drug (15 mg) in 12 healthy subjects. 
+2	However, the impairment of motor skills produced by drug has been shown to be additive with those caused by drug. 
+2	Accordingly, patients should be advised to avoid drug and other similar drugs while taking drug.
+1	Interaction with Other drug: drug SHOULD BE USED WITH GREAT CAUTION AND IN REDUCED DOSAGE IN PATIENTS WHO ARE CONCURRENTLY RECEIVING OTHER drug, GENERAL drug, drug, OTHER drug, drug (INCLUDING drug), drug AND OTHER drug (INCLUDING drug). 
+1	Concurrent administration of drug (e.g., drug, drug) may diminish the bactericidal effects of drug by slowing the rate of bacterial growth. 
+2	drug blood levels may be prolonged by concurrent administration of drug which blocks the renal tubular secretion of drug. 
+1	Displacement of drug from plasma protein binding sites will elevate the level of free drug in the serum.
+2	Drug Interactions: Women on oral drug have shown a significant increase in plasma drug levels.
+1	drug is not known to interact with other drugs including drug supplements; 
+2	Concomitant administration of drug with other chelation therapy, such as drug is not recommended. 
+2	When drug is used with other drug, potentiation of antihypertensive effect may occur. 
+2	Patients may require reduced doses of drug when on drug. 
+2	When drug and drug are given concomitantly the patient should be carefully monitored for symptoms of drug toxicity. 
+2	Several studies demonstrate a decrease in the bioavailability of drug when it is ingested with drug or drug. 
+2	Coadministration of drug with drug or drug is not recommended. 
+1	drug does not interfere with measurement of drug (drug), a test for pheochromocytoma, by those methods which convert drug to drug. 
+1	drug and drug are incompatible with drug solution. 
+1	The addition of drug to parenteral solutions containing drug should be avoided, except where compatibility has been previously established. 
+2	The bioavailability of drug is decreased 80% by drug, when drug and drug are administered at the same time, and 60% by some drug- or drug-containing drug, when administered 1 hour before drug. 
+2	drug may decrease bioavailability of drug by up to 50% when taken 2 hours after drug. 
+2	The bioavailability of drug is increased 2-4 fold by drug but is not significantly altered by coadministration of drug. 
+1	The pharmacokinetic parameters of drug are not significantly modified by drug coadministration. 
+1	In vitro studies show that drug does not displace drug from its binding site on protein.
+1	drug, a bacteriostatic drug, may antagonize the bactericidal effect of drug and concurrent use of these drugs should be avoided.
+2	drug should be used with care in patients taking other drugs that are capable of causing CNS effects such as drug, drug, or drug. 
+1	e.g., other drug, drug (including drug), drug, and drug. 
+2	The induction dose requirements of drug Injectable Emulsion may be reduced in patients with intramuscular or intravenous premedication, particularly with drug (eg, drug, drug, and drug, etc.) 
+1	and combinations of drug and drug (eg, drug, drug, drug, drug, etc.). 
+2	During maintenance of anesthesia or sedation, the rate of drug Injectable Emulsion administration should be adjusted according to the desired level of anesthesia or sedation and may be reduced in the presence of supplemental drug (eg, drug or drug). 
+1	The concurrent administration of potent inhalational agents (eg, drug, drug, and drug) during maintenance with drug Injectable Emulsion has not been extensively evaluated. 
+1	drug Injectable Emulsion does not cause a clinically significant change in onset, intensity, or duration of action of the commonly used drug (eg, drug and drug). 
+1	No significant adverse interactions with commonly used premedications or drugs used during anesthesia or sedation (including a range of drug, inhalational agents, drug, and local drug) have been observed.
+1	The in vitro binding of drug to human plasma proteins is unaffected by drug, and drug does not alter the prothrombin time of normal volunteers. 
+2	However, increased prothrombin time and bleeding have been reported in patients on concomitant drug and drug therapy. 
+2	Therefore, caution should be exercised when administering drug to patients on drug. 
+1	In adult diabetic patients under treatment with either drug or drug there is no change in the clinical effects of either drug or the drug. 
+2	Caution should be used if drug is administered concomitantly with drug. 
+1	drug and other drug have been reported to reduce the tubular secretion of drug in an animal model, possibly enhancing the toxicity of drug. 
+2	drug may accentuate the orthostatic hypotension that may occur with drug. 
+2	Antihypertensive effects of drug and related compounds may be counteracted when drug are used concomitantly. 
+2	Concomitant administration of drug with drug results in increased plasma levels of both drugs.
+1	In clinical studies of drug, patients taking drug concomitantly with drug (drug   , Genentech), drug, inhaled drug, other drug, or parenteral drug demonstrated adverse experience profiles similar to the study population as a whole. 
+2	Some drug can enhance drug toxicity by altering drug concentrations in serum and tissue. 
+2	drug should not be administered concomitantly with drug, drug, drug, or drug.
+2	An inhibitor of CYP2C8 (such as drug) may increase the AUC of drug and an inducer of CYP2C8 (such as drug) may decrease the AUC of drug. 
+1	drug: drug causes a 60% reduction in the absorption and enterohepatic cycling of drug and should not be coadministered with drug. 
+1	drug: The coadministration of drug and drug has not been assessed under chronic conditions. 
+2	If drug is given concurrently with drug, prothrombin time should be monitored. 
+1	In vitro, drug did not affect the binding of drug, drug, or drug. 
+2	Caution should be used when drug is coadministered with other highly protein-bound drugs, such as drug, drug, drug, drug, drug, and drug. 
+2	drug competes with drug for active tubular secretion and thus inhibits the renal excretion of drug. 
+2	Therefore, the coadministration of drug with drug is not recommended. 
+2	There is evidence that drug may reduce serum levels of drug to subtherapeutic levels (therapeutic range considered to be 50 to 100    g/mL total drug).
+2	Other drug should not be used concomitantly with drug    (drug USP) because they may have additive effects. 
+2	drug should be administered with caution to patients being treated with drug or drug, since the action of drug on the vascular system may be potentiated.
+1	Drug Interactions: The use of drug    (drug) Injection before drug, for the purpose of attenuating some of the side effects of drug, has not been studied. 
+2	If drug    is administered following administration of drug, it should not be given until recovery from drug has been observed. 
+1	The median duration of action of drug    0.6 mg/kg administered after a 1 mg/kg dose of drug when T 1 returned to 75% of control was 36 minutes (range 14-57, n=12) vs. 
+1	There are no controlled studies documenting the use of drug    before or after other drug. 
+1	Because drug is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of drug. 
+1	drug, drug, and drug: In patients treated with potent inducers of CYP3A4 (i.e., drug, drug, and drug), the clearance of drug was significantly increased and drug blood concentrations were decreased. 
+1	However, on the basis of available data, no dosage adjustment for drug is recommended for patients on these drugs.1,3  drug: Although no pharmacokinetic drug interaction between drug and drug has been observed, data from 2 small studies indicate that drug may be associated with an increase in patient controlled administration of drug.4,5  Chemotherapy: Tumor response to chemotherapy in the P 388 mouse leukemia model is not affected by drug. 
+1	In humans, drug, drug, and drug do not affect the pharmacokinetics of drug.  
+1	drug did not increase blood levels of high-dose drug.
+2	Administration of drug in combination with drug resulted in a two-fold decrease in drug clearance in a non-human primate study and in a 1.5-fold increase in drug serum levels in clinical studies.
+1	Concomitant administrations not recommended:  - drug and drug: Certain drug interact with drug and drug leading to increased serum concentrations of the latter. 
+1	Although such a reaction has not been demonstrated with drug, concomitant administration of drug with drug or drug is not recommended. 
+1	- drug, drug: Other drugs such as drug or drug, which are metabolised by hepatic CYP3A isozymes have been associated with QT interval prolongation and/or cardiac arrythmias (typically torsades de pointe) as a result of increase in their serum level subsequent to interaction with significant inhibitors of the isozyme, including some drug. 
+1	Although such a risk is not verified for drug, combination of drug with such drugs is not recommended.
+2	Some drug may interact with drug. 
+1	Those drug include drug, drug, and drug. 
+2	drug may also affect the effects of other drugs, which include some drug, drug, certain heart medicines, birth control pills, drug, drug and drug Please note that drug may interact with other drugs that are not listed here.
+1	The interaction of drug, drug, with other drugs has not been well studied. 
+1	Use of drug and drug -- drug, drug, alone or in combination with drug and drug, may cause bleeding complications. 
+1	In the treatment of acute MI, drug, when not otherwise contraindicated, should be administered with drug ( see below ). 
+1	Anticoagulation and drug After Treatment for Myocardial Infarction -- In the treatment of acute myocardial infarction, the use of drug has been shown to reduce the incidence of reinfarction and stroke. 
+2	The addition of drug to drug causes a minimal increase in the risk of minor bleeding (3.9% vs. 3.1%), but does not appear to increase the incidence of major bleeding (see
+1	drug and drug increase the effects of drug. 
+2	drug may reduce the antihypertensive effects of drug, drug, drug and drug.
+2	Because drug have been shown to depress plasma prothrombin activity, patients who are on drug therapy may require downward adjustment of their drug dosage. 
+1	Since bacteriostatic drugs may interfere with the bactericidal action of drug, it is advisable to avoid giving drug in conjunction with drug. 
+1	Absorption of drug is impaired by drug containing drug, drug or drug, and drug-containing preparations. 
+2	The concurrent use of drug and drug has been reported to result in fatal renal toxicity. 
+2	Concurrent use of drug with oral drug may render oral drug less effective.
+2	The concomitant use of drug with other drug that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects. 
+1	Drugs Eliminated by Active Tubular Secretion: Although studies to assess drug-drug interactions with drug have not been conducted, drug has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. drug, drug, drug, drug, drug, drug and drug). 
+1	Coadministration of drug with drugs that are eliminated by active renal tubular secretion may increase the serum concentration of drug and/or the coadministered drug due to competition for this elimination pathway. 
+1	DRUG INTERACTIONS  There are no known drug/drug interactions with oral drug  Vaccinations with drug are not recommended in immunocompromised individuals  drug together with high-dose intravenous drug has caused deaths in children due to haemorrhagic enterocolitis.  
+2	Impaired renal function has been described in bone marrow transplant patients who were conditioned with high-dose intravenous drug and who subsequently received drug to prevent graft-versus-host disease
+2	Drug Interactions: Inhibitors of CYP3A4 Isozymes: Caution is advised when drug is administered concomitantly with drugs that are known to inhibit the cytochrome P450 3A4 enzyme system (ie, some drugs in the drug classes of drug, drug, drug, and drug). 
+1	Drugs such as drug, drug, drug, drug, drug and drug were shown to significantly increase the C max and AUC of orally administered drug. 
+1	Although not studied, the potent cytochrome P450 3A4 inhibitors drug and drug may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of drug. 
+1	Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as drug, drug, and drug, induce metabolism and caused a markedly decreased C max and AUC of oral drug in adult studies. 
+1	The difficulty in achieving adequate sedation may have been the result of decreased absorption of the drug due to both the gastrointestinal effects and stimulant effects of drug. 
+2	The sedative effect of drug is accentuated by any concomitantly administered medication which depresses the central nervous system, particularly drug (eg, drug, drug and drug), drug, drug, drug, drug and drug. 
+1	No significant adverse interactions with common premedications (such as drug, drug, drug, drug, drug, and other drug) or local drug have been observed.
+2	Drugs which may potentiate the myeloproliferative effects of drug, such as drug and drug, should be used with caution.
+1	These are described in greater detail below:  Oral drug, drug, drug, drug, drug, drug, drug, drug, drug, drug, drug, drug,  Oral drug: Clinically significant hypoglycemia may be precipitated by the use of drug with oral drug; 
+2	one fatality has been reported from hypoglycemia in association with combined drug and drug use. 
+2	drug reduces the metabolism of drug, drug, and drug and increases the plasma concentration of these agents. 
+2	When drug is used concomitantly with these or other drug, blood glucose concentrations should be carefully monitored and the dose of the drug should be adjusted as necessary. 
+1	drug: Prothrombin time may be increased in patients receiving concomitant drug and drug. 
+1	In post-marketing experience, as with other drug, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving drug concurrently with drug. 
+2	Careful monitoring of prothrombin time in patients receiving drug and drug is recommended. 
+1	drug: drug increases the plasma concentrations of drug. 
+1	Careful monitoring of drug concentrations in patients receiving drug and drug is recommended. 
+1	drug: drug may significantly increase drug levels in renal transplant patients with or without renal impairment. 
+1	Careful monitoring of drug concentrations and serum creatinine is recommended in patients receiving drug and drug. 
+1	drug: drug enhances the metabolism of concurrently administered drug. 
+2	Depending on clinical circumstances, consideration should be given to increasing the dose of drug when it is administered with drug. 
+1	drug: drug increases the serum concentrations of drug. 
+1	Careful monitoring of serum drug concentrations in patients receiving drug and drug is recommended. 
+1	drug: Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving drug in conjunction with drug, interaction studies have been performed. 
+1	Another study at a 400-mg and 800-mg daily dose of drug demonstrated that drug taken in doses of 400 mg per day or greater significantly increases plasma levels of drug when taken concomitantly. 
+2	The combined use of drug at doses of 400 mg or greater with drug is contraindicated. 
+2	The coadministration of drug at doses lower than 400 mg/day with drug should be carefully monitored. 
+1	drug: There have been reports of cardiac events, including torsade de pointes in patients to whom drug and drug were coadministered. 
+2	A controlled study found that concomitant drug 200 mg once daily and drug 20 mg four times a day yielded a significant increase in drug plasma levels and prolongation of QTc interval.
+2	The combined use of drug with drug is contraindicated. 
+1	drug: The use of drug in patients concurrently taking drug or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs. 
+1	drug: There have been reports of uveitis in patients to whom drug and drug were coadministered. 
+2	Patients receiving drug and drug concomitantly should be carefully monitored. 
+1	drug: There have been reports of nephrotoxicity in patients to whom drug and drug were coadministered. 
+2	Patients receiving drug and drug concomitantly should be carefully monitored. 
+1	drug: Following oral administration of drug, drug resulted in substantial increases in drug concentrations and psychomotor effects. 
+2	This effect on drug appears to be more pronounced following oral administration of drug than with drug administered intravenously. 
+2	If drug, which are metabolized by the cytochrome P450 system, are concomitantly administered with drug, consideration should be given to decreasing the drug dosage, and the patients should be appropriately monitored. 
+2	drug tablets coadministered with drug- and drug-containing oral drug produced an overall mean increase in drug and drug levels; 
+1	however, in some patients there were decreases up to 47% and 33% of drug and drug levels. 
+1	The data presently available indicate that the decreases in some individual drug and drug AUC values with drug treatment are likely the result of random variation. 
+2	While there is evidence that drug can inhibit the metabolism of drug and drug, there is no evidence that drug is a net inducer of drug or drug metabolism. 
+2	Although a causal relationship has not been established, there have been reports of bleeding and/or prolonged prothrombin time in patients treated with drug with and without drug or drug. 
+2	Concomitant administration of drug and drug-containing drugs leads to increased drug levels and drug toxicity in some individuals. 
+1	drug has been used concurrently with drug, drug, drug, drug, drug, and drug, without observed problems. 
+1	drug Reports suggest that drug may diminish the antihypertensive effect of drug. 
+2	This interaction should be given consideration in patients taking drug concomitantly with drug. 
+1	drug: Concomitant administration of drug (1000 mg TID) to healthy volunteers tended to increase the AUC (10%) and Cmax (24%) of drug. 
+1	however, as with other drug, concomitant administration of drug and drug is not generally recommended because of the potential for increased adverse effects. 
+2	Concomitant administration of low-dose drug with drug may result in an increased rate of GI ulceration or other complications, compared to use of drug alone. 
+1	drug is not a substitute for drug for cardiovascular prophylaxis. 
+1	drug: Pretreatment for four days with drug significantly increased the clearance of drug by 50%. 
+1	drug: Concomitant administration of 200 mg drug QID did not alter the single-dose pharmacokinetics of 30 mg drug. 
+1	drug: drug 15 mg once daily for 7 days did not alter the plasma concentration profile of drug after b-acetyldigoxin administration for 7 days at clinical doses. 
+1	In vitro testing found no protein binding drug interaction between drug and drug. 
+1	drug: Clinical studies, as well as post-marketing observations, have shown that drug can reduce the natriuretic effect of drug and drug in some patients. 
+1	Studies with drug agents and drug have not demonstrated a reduction in natriuretic effect. 
+1	drug: single and multiple dose pharmacodynamics and pharmacokinetics are not affected by multiple doses of drug. 
+2	Nevertheless, during concomitant therapy with drug and drug, patients should be observed closely for signs of declining renal function, as well as to assure diuretic efficacy. 
+1	drug: In clinical trials, drug have produced an elevation of plasma drug levels and a reduction in renal drug clearance. 
+1	In a study conducted in healthy subjects, mean pre-dose drug concentration and AUC were increased by 21% in subjects receiving drug doses ranging from 804 to 1072 mg BID with drug 15 mg QD as compared to subjects receiving drug alone. 
+2	Patients on drug treatment should be closely monitored when drug is introduced or withdrawn. 
+1	drug: A study in 13 rheumatoid arthritis (RA) patients evaluated the effects of multiple doses of drug on the pharmacokinetics of drug taken once weekly. 
+1	drug did not have a significant effect on the pharmacokinetics of single doses of drug. 
+1	In vitro, drug did not displace drug from its human serum binding sites. 
+1	drug: Anticoagulant activity should be monitored, particularly in the first few days after initiating or changing drug therapy in patients receiving drug or similar agents, since these patients are at an increased risk of bleeding. 
+1	The effect of drug on the anticoagulant effect of drug was studied in a group of healthy subjects receiving daily doses of drug that produced an INR (International Normalized Ratio) between 1.2 and 1.8. 
+1	In these subjects, drug did not alter drug pharmacokinetics and the average anticoagulant effect of drug as determined by prothrombin time. 
+2	Caution should be used when administering drug with drug since patients on drug may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced.
+2	When administered concomitantly with drug   , drug may enhance or precipitate bradycardia, A.V. 
+1	The use of drugs that stimulate alpha-adrenergic receptors (e.g., drug, drug, drug, drug or drug) may enhance or potentiate the pressor effects of drug   . Therefore, caution should be used when drug    is administered concomitantly with agents that cause vasoconstriction. 
+1	drug    has been used in patients concomitantly treated with salt-retaining steroid therapy (i.e., drug), with or without salt supplementation. 
+1	drug. drug, such as drug, drug, and drug, can antagonize the effects of drug. Potential for Drug Interactions: It appears possible, although there is no supporting experimental evidence, that the high renal clearance of drug (a base) is due to active tubular secretion by the base-secreting system also responsible for the secretion of such drugs as drug, drug, drug, drug, drug, drug, and drug. 
+2	Preliminary evidence suggests that drug inhibits drug metabolism and may result in an increase in plasma concentrations of drug.
+1	Interactions for drug (drug):  drug - impairs the intestinal absorption of drug
+2	drug - concurrent use decreases gastrointestinal absorption of drug; 
+2	requirements for drug may be increased in patients receiving drug.
+1	The concomitant use of other drug including drug, drug, drug, general drug, drug, other drug, drug, drug, and drug may produce additive CNS depressant effects. 
+2	drug or other medications with anticholinergic activity when used concurrently with drug may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. 
+2	It has been reported that the incidence of bradycardia was increased when drug was combined with drug for induction of anesthesia. 
+2	In addition, CNS toxicity has been reported (confusion, disorientation, respiratory depression, apnea, seizures) following coadministration of drug with drug; 
+1	Since drug (drug) may interact with concurrently administered drug, periodic serum level determinations of these drugs may be necessary (eg drug may increase the plasma concentrations of drug and drug).
+2	When drug and drug are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected when drug is used alone. 
+1	This is especially true if the total dose of drug has been large and the administration of drug has been delayed. 
+1	2 - 4 The following precautions should be kept in mind in the treatment of anticholinesterase poisoning, although they do not bear directly on the use of drug: since drug are potentiated by the drug, they should be used cautiously in the treatment of convulsions; 
+1	drug, drug, drug, drug, drug, and drug should be avoided in patients with organophosphate poisoning.
+1	Reduced absorption of drug and drug have been reported when those agents were administered concomitantly with drug. 
+1	When daily doses of drug 2 g and weekly doses of drug 7.5 mg were coadministered to 15 rheumatoid arthritis patients in a drug-drug interaction study, the pharmacokinetic disposition of the drugs was not altered. 
+1	Daily doses of drug 2 g (maximum 3 g) and weekly doses of drug 7.5 mg (maximum 15 mg) were administered alone or in combination to 310 rheumatoid arthritis patients in two controlled 52-week clinical studies. 
+1	drug drug may increase sensitivity to oral drug. 
+1	drug: A multidose study of drug, given as 5 or 10 mg BID in 15 healthy subjects concurrently treated with drug, resulted in a mean increase in drug half-life from 26 to 48 hours and AUC from 4.55 to 12.08 ng*hr/mL: similar increases in drug half-life and AUC were also detected. 
+1	A 5.5-fold decrease in the mean drug dose from 6.13 mg/day to 1.13 mg/day (approximately 80-85% reduction of drug dose), was necessary to maintain a target INR of 1.5. 
+2	When drug therapy is initiated in a patient already receiving treatment with drug, the INR or prothrombin time (PT) should be monitored closely and the dose of drug adjusted as necessary until a stable target INR or PT has been achieved. 
+2	Furthermore, in patients receiving both drugs, careful monitoring of the INR or PT, and adjustment of the drug dosage if indicated are recommended when the drug dose is changed or discontinued. 
+1	Oral drug drug may inhibit the metabolism of oral drug. 
+1	drug or drug In patients with edema, concomitant administration with drug or drug may increase the edema. 
+2	drug may reverse the analgesic activity of drug. 
+1	Concurrent use with drug including drug, drug, and drug (e.g. smoking) may result in enhanced vasoconstriction.
+2	drug competitively inhibits the intracellular phosphorylation of drug. 
+2	Therefore, use of drug in combination with drug should be avoided. 
+2	In vitro data indicate that the phosphorylation of drug is also inhibited at relevant concentrations by drug and drug. 
+2	When administered concurrently, drug may increase the effects of oral drug; 
+1	drug: Concomitant drug administration decreased the mean AUC of total drug approximately 55%. 
+2	The incremental LDL-C reduction due to adding drug to drug may be reduced by this interaction. 
+1	drug: The safety and effectiveness of drug administered with drug have not been established. 
+2	Co-administration of drug with drug is not recommended until use in patients is studied. 
+1	drug: In a pharmacokinetic study, concomitant drug administration increased total drug concentrations approximately 1.5-fold. 
+1	drug: In a pharmacokinetic study, concomitant drug administration increased total drug concentrations approximately 1.7-fold. 
+1	drug: No clinically significant pharmacokinetic interactions were seen when drug was co-administered with drug, drug, drug, drug, or drug. 
+1	drug: The total drug level increased 12-fold in one renal transplant patient receiving multiple medications, including drug. 
+2	Patients who take both drug and drug should be carefully monitored. 
+1	Carcinogenesis, Mutagenesis, Impairment of Fertility A 104-week dietary carcinogenicity study with drug was conducted in rats at doses up to 1500 mg/kg/day (males) and 500 mg/kg/day (females) (~20 times the human exposure at 10 mg daily based on AUC0-24hr for total drug). 
+1	A 104-week dietary carcinogenicity study with drug was also conducted in mice at doses up to 500 mg/kg/day (>150 times the human exposure at 10 mg daily based on AUC0-24hr for total drug). 
+1	In oral (gavage) fertility studies of drug conducted in rats, there was no evidence of reproductive toxicity at doses up to 1000 mg/kg/day in male or female rats (~7 times the human exposure at 10 mg daily based on AUC0-24hr for total drug). 
+1	In rabbits treated with drug, an increased incidence of extra thoracic ribs was observed at 1000 mg/kg/day (150 times the human exposure at 10 mg daily based on AUC0-24hr for total drug). 
+1	Multiple dose studies of drug given in combination with drug (drug) in rats and rabbits during organogenesis result in higher drug and statin exposures. 
+1	When drug is administered with an drug in a woman of childbearing potential, refer to the pregnancy category and package labeling for the drug. 
+2	However, drug, a potent inhibitor of cytochrome P450 3A4, may increase plasma levels of drug during concomitant dosing.
+2	drug may enhance the effects of drug, drug and other drug.
